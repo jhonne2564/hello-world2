@@ -1,0 +1,14 @@
+C:\Users\fedex\documents\visual studio 2015\Projects\Mensajeria\ISO8583\bin\Debug\ISO8583.dll
+C:\Users\fedex\documents\visual studio 2015\Projects\Mensajeria\ISO8583\bin\Debug\ISO8583.pdb
+C:\Users\fedex\documents\visual studio 2015\Projects\Mensajeria\ISO8583\obj\Debug\ISO8583.dll
+C:\Users\fedex\documents\visual studio 2015\Projects\Mensajeria\ISO8583\obj\Debug\ISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\ISO8583\bin\Debug\ISO8583.dll
+D:\Personal\desarrollo\Mensajeria\ISO8583\bin\Debug\ISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\ISO8583\obj\Debug\ISO8583.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\ISO8583\obj\Debug\ISO8583.dll
+D:\Personal\desarrollo\Mensajeria\ISO8583\obj\Debug\ISO8583.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\ISO8583\bin\Debug\ISO8583.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\ISO8583\bin\Debug\ISO8583.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\ISO8583\obj\Debug\ISO8583.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\ISO8583\obj\Debug\ISO8583.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\ISO8583\obj\Debug\ISO8583.pdb

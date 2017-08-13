@@ -1,0 +1,49 @@
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.csprojResolveAssemblyReference.cache
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll.config
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\AccesoDatos.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\AjaxControlToolkit.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\Entidades.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\ISO8583.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\Negocio.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\AccesoDatos.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\Entidades.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\ISO8583.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\bin\Negocio.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll.config
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\AccesoDatos.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\AjaxControlToolkit.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\Entidades.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\ISO8583.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\Negocio.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\AccesoDatos.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\Entidades.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\ISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\Negocio.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.pdb
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\EstaSiEs.dll
+D:\Personal\desarrollo\Mensajeria\SimuladorISO8583\bin\EstaSiEs.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll.config
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\SimuladorISO8583.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\AccesoDatos.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\AjaxControlToolkit.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\Entidades.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\EstaSiEs.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\ISO8583.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\Negocio.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\AccesoDatos.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\Entidades.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\EstaSiEs.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\ISO8583.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\bin\Negocio.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\SimuladorISO8583\obj\Debug\SimuladorISO8583.pdb

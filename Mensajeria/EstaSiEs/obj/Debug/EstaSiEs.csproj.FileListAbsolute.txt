@@ -1,0 +1,10 @@
+D:\Personal\desarrollo\Mensajeria\EstaSiEs\bin\Debug\EstaSiEs.dll
+D:\Personal\desarrollo\Mensajeria\EstaSiEs\bin\Debug\EstaSiEs.pdb
+D:\Personal\desarrollo\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.dll
+D:\Personal\desarrollo\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\EstaSiEs\bin\Debug\EstaSiEs.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\EstaSiEs\bin\Debug\EstaSiEs.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\EstaSiEs\obj\Debug\EstaSiEs.pdb

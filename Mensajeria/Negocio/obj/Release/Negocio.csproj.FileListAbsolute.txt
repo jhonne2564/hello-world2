@@ -1,0 +1,9 @@
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\Negocio.dll
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\Negocio.pdb
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\AccesoDatos.dll
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\Entidades.dll
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\AccesoDatos.pdb
+C:\Desarrollo\SimuladorTramas\Negocio\bin\Release\Entidades.pdb
+C:\Desarrollo\SimuladorTramas\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SimuladorTramas\Negocio\obj\Release\Negocio.dll
+C:\Desarrollo\SimuladorTramas\Negocio\obj\Release\Negocio.pdb

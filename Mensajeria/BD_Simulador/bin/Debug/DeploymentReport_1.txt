@@ -1,0 +1,29 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles problemas de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Campo] (Tabla)
+       [dbo].[Conexion] (Tabla)
+       [dbo].[DetalleTrama] (Tabla)
+       [dbo].[DetalleTramaTemp] (Tabla)
+       [dbo].[EncabezadoTrama] (Tabla)
+       [dbo].[ErrorProcedure] (Tabla)
+       [dbo].[Sesion] (Tabla)
+       [dbo].[Usuario] (Tabla)
+       [dbo].[DF_ErrorProcedure_err_fecha] (Restricción DEFAULT)
+       [dbo].[DF_Sesion_ses_estado] (Restricción DEFAULT)
+       [dbo].[DF_Usuario_usu_activo] (Restricción DEFAULT)
+       [dbo].[spGenerico_LogTryCatch] (Procedimiento)
+       [dbo].[sp_Conexion] (Procedimiento)
+       [dbo].[sp_Drop] (Procedimiento)
+       [dbo].[sp_Tramas] (Procedimiento)
+
+** Acciones de compatibilidad

@@ -1,0 +1,62 @@
+﻿.Menu {
+    background-color: #fff;
+    border: 1px solid #CCCCCC;
+    height: 22px;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    background-color:#F6F6F6;
+}
+
+    .Menu a {
+        color: #666666;
+        font-family: Tahoma;
+    }
+
+.mn_StaticMenuStyle {
+    font-size: 11px;
+    /*text-align: center;*/
+}
+
+.mn_StaticSelectedStyle {
+}
+
+.mn_StaticMenuItemStyle {
+    padding-left: 10px;
+}
+
+.mn_StaticHoverStyle {
+    /*background: #CCCCCC;*/
+    background-color:#F0F0F0;
+    height: 20px;
+}
+
+.mn_DynamicHoverStyle {
+    /*background: #CCCCCC;
+    border: 1px solid #CCCCCC;
+    border-collapse: collapse;*/
+    background-color:#F0F0F0;
+}
+
+mn_DynamicMenuStyle {
+}
+
+.mn_DynamicSelectedStyle {
+}
+
+.mn_DynamicMenuItemStyle {
+    font-size: 11px;
+    min-height: 22px;
+    font-family: Tahoma;
+    color: #666666;
+    padding-left:10px;
+}
+
+.mn_DynamicMenuStyle table {
+    min-width: 190px;
+}
+
+div.mn_DynamicMenuStyle {
+    border: 1px solid #CCCCCC;
+    border-collapse: collapse;
+}
