@@ -1,0 +1,5 @@
+C:\Desarrollo\SimuladorTramas\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Desarrollo\SimuladorTramas\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Desarrollo\SimuladorTramas\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SimuladorTramas\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Desarrollo\SimuladorTramas\AccesoDatos\obj\Release\AccesoDatos.pdb

@@ -1,0 +1,20 @@
+C:\Desarrollo\Bonitasoft\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Desarrollo\Bonitasoft\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Desarrollo\Bonitasoft\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Bonitasoft\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Desarrollo\Bonitasoft\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Personal\desarrollo\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Personal\desarrollo\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Personal\desarrollo\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\AccesoDatos\obj\Debug\AccesoDatos.pdb

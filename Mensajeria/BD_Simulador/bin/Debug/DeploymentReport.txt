@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Campo] (Table)
+       [dbo].[Conexion] (Table)
+       [dbo].[DetalleTrama] (Table)
+       [dbo].[DetalleTramaTemp] (Table)
+       [dbo].[EncabezadoTrama] (Table)
+       [dbo].[ErrorProcedure] (Table)
+       [dbo].[Sesion] (Table)
+       [dbo].[Usuario] (Table)
+       [dbo].[DF_ErrorProcedure_err_fecha] (Default Constraint)
+       [dbo].[DF_Sesion_ses_estado] (Default Constraint)
+       [dbo].[DF_Usuario_usu_activo] (Default Constraint)
+       [dbo].[spGenerico_LogTryCatch] (Procedure)
+       [dbo].[sp_Conexion] (Procedure)
+       [dbo].[sp_Drop] (Procedure)
+       [dbo].[sp_Tramas] (Procedure)
+
+** Supporting actions

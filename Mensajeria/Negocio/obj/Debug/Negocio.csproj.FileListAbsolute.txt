@@ -1,0 +1,27 @@
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\Negocio.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\Entidades.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\obj\Debug\Negocio.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Negocio\obj\Debug\Negocio.pdb
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\Negocio.dll
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\Negocio.pdb
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\AccesoDatos.dll
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\Entidades.dll
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\AccesoDatos.pdb
+D:\Personal\desarrollo\Mensajeria\Negocio\bin\Debug\Entidades.pdb
+D:\Personal\desarrollo\Mensajeria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\Negocio\obj\Debug\Negocio.dll
+D:\Personal\desarrollo\Mensajeria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\Negocio.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\Entidades.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\obj\Debug\Negocio.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Negocio\obj\Debug\Negocio.pdb

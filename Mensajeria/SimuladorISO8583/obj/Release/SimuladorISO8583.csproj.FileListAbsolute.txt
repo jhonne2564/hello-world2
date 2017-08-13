@@ -1,0 +1,14 @@
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\SimuladorISO8583.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\SimuladorISO8583.pdb
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\AccesoDatos.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\AjaxControlToolkit.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\Entidades.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\ISO8583Core.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\Negocio.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\AccesoDatos.pdb
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\Entidades.pdb
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\ISO8583Core.pdb
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\bin\Negocio.pdb
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\obj\Release\SimuladorISO8583.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\obj\Release\SimuladorISO8583.dll
+C:\Desarrollo\SimuladorTramas\SimuladorISO8583\obj\Release\SimuladorISO8583.pdb

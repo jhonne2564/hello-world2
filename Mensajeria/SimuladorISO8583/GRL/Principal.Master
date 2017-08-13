@@ -1,0 +1,140 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="SimuladorISO8583.GRL.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Administrador ISO8583</title>
+    <link href="../CSS/Estilos.css" rel="stylesheet" type="text/css" />
+    <link href="../CSS/Menu.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <ajaxToolkit:ToolkitScriptManager ID="tsmPrincipals" runat="server" EnableScriptGlobalization="true" EnableScriptLocalization="true" />
+        <div>
+            <table style="width: 100%">
+                <tr>
+                    <td style="width: 20%"></td>
+                    <td style="width: 60%">
+                        <table style="width: 100%; border-collapse: collapse;">
+                            <tr>
+                                <td style="padding: 10px 10px 10px 10px; border-collapse: collapse; background-color: #F4F4FF; height: 70px;">
+                                    <%--<asp:Image ID="imLogo" runat="server" ImageUrl="../IMG/LogoPowerSoft.png" />--%>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 0; margin: 0;">
+                                    <asp:Menu ID="Menu" runat="server" CssClass="Menu" Width="100%"
+                                        Orientation="Horizontal" RenderingMode="Table">
+                                        <StaticMenuStyle CssClass="mn_StaticMenuStyle" />
+                                        <StaticSelectedStyle CssClass="mn_StaticSelectedStyle" />
+                                        <StaticMenuItemStyle CssClass="mn_StaticMenuItemStyle" />
+                                        <StaticHoverStyle CssClass="mn_StaticHoverStyle" />
+                                        <DynamicHoverStyle CssClass="mn_DynamicHoverStyle" />
+                                        <DynamicMenuStyle CssClass="mn_DynamicMenuStyle" />
+                                        <DynamicSelectedStyle CssClass="mn_DynamicSelectedStyle" />
+                                        <DynamicMenuItemStyle CssClass="mn_DynamicMenuItemStyle" />
+                                        <Items>
+                                            <asp:MenuItem NavigateUrl="~/GRL/Inicio.aspx" Text="Inicio" />
+                                            <asp:MenuItem Text="Administración">
+                                                <asp:MenuItem NavigateUrl="~/ADM/Conexiones.aspx" Text="Conexiones" />
+                                                <asp:MenuItem NavigateUrl="~/ADM/Tramas.aspx" Text="Tramas" />
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="Operaciones">
+                                                <asp:MenuItem NavigateUrl="~/OPE/SimularTrama.aspx" Text="Simular Trama" />
+                                                <asp:MenuItem NavigateUrl="~/OPE/IngenieriaInversa.aspx" Text="Ingenieria Inversa" />
+                                            </asp:MenuItem>
+                                        </Items>
+                                    </asp:Menu>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding: 0; margin: 0;">
+                                    <table style="width: 100%">
+                                        <tr>
+                                            <td style="text-align: left; width: 50%" class="TextoTabla">
+                                                <asp:Label ID="lbBienvenido" runat="server" Text="Bienvenido:" />
+                                                <asp:LinkButton ID="lbtNombreUsuario" runat="server" OnClick="lbtNombreUsuario_Click" Text="Federico Vergara Giraldo" />
+                                            </td>
+                                            <td style="text-align: right; width: 50%">
+                                                <asp:LinkButton ID="lbCerrarSesion" runat="server" CssClass="TextoTabla" Text="Cerrar Sesión" OnClick="lbCerrarSesion_Click" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <asp:UpdatePanel ID="UpMasterTitulo" UpdateMode="Conditional" runat="server">
+                                        <ContentTemplate>
+                                            <asp:Label runat="server" ID="lblMasterTitulo" Text="" CssClass="Titulo" />
+                                        </ContentTemplate>
+                                    </asp:UpdatePanel>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <asp:UpdatePanel ID="UPMasterAlert" UpdateMode="Always" runat="server">
+                                        <ContentTemplate>
+                                            <asp:Panel runat="server" ID="panMasterAlerta" Visible="false">
+                                                <%--<tr>
+                                                    <td colspan="2">&nbsp;
+                                                    </td>
+                                                </tr>--%>
+                                                <tr>
+                                                    <td colspan="2">
+                                                        <table cellpadding="0" cellspacing="0" style="width: 100%;" class="MensajeAlerta">
+                                                            <tr>
+                                                                <td colspan="2" style="height: 3px; width: 100%; text-align: right;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="text-align: center; width: 8%;">
+                                                                    <asp:Image runat="server" ID="imgMensaje" ImageUrl="~/IMG/imgAlerta.png" />
+                                                                </td>
+                                                                <td style="text-align: left;">
+                                                                    <asp:Label runat="server" ID="lblMasterAlerta" Text="" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td style="height: 3px;" colspan="2"></td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <%--<tr>
+                                                    <td colspan="2">&nbsp;
+                                                    </td>
+                                                </tr>--%>
+                                            </asp:Panel>
+                                        </ContentTemplate>
+                                    </asp:UpdatePanel>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="height: 400px; vertical-align: top;">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">
+                                    <hr style="width: 100%" />
+                                    <asp:Label ID="lbDerechos" runat="server" Font-Size="X-Small" CssClass="TextoTabla" Text="© 2014 Fedex, Todos los derechos reservados." />
+                                    <%--<footer id="main">
+                                        <hr style="width: 60%" />
+                                        <asp:Label ID="lbDerechos" runat="server" Font-Size="X-Small" CssClass="TextoTabla" Text="© 2013 PowerSorf, Todos los derechos reservados." />
+                                    </footer>--%>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style="width: 20%"></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

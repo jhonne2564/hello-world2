@@ -1,0 +1,19 @@
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dacpac
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\Model.xml
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\refactor.xml
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\postdeploy.sql
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\predeploy.sql
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.pdb
+D:\Personal\desarrollo\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dacpac
+D:\Personal\desarrollo\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dll
+D:\Personal\desarrollo\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.pdb
+D:\Personal\desarrollo\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.dll
+D:\Personal\desarrollo\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dacpac
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\BD_Simulador\bin\Debug\BD_Simulador.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\BD_Simulador\obj\Debug\BD_Simulador.pdb

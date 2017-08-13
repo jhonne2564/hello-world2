@@ -1,0 +1,5 @@
+C:\Desarrollo\SimuladorTramas\Entidades\bin\Release\Entidades.dll
+C:\Desarrollo\SimuladorTramas\Entidades\bin\Release\Entidades.pdb
+C:\Desarrollo\SimuladorTramas\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+C:\Desarrollo\SimuladorTramas\Entidades\obj\Release\Entidades.dll
+C:\Desarrollo\SimuladorTramas\Entidades\obj\Release\Entidades.pdb

@@ -1,0 +1,14 @@
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedex\Documents\Visual Studio 2015\Projects\Mensajeria\Entidades\obj\Debug\Entidades.pdb
+D:\Personal\desarrollo\Mensajeria\Entidades\bin\Debug\Entidades.dll
+D:\Personal\desarrollo\Mensajeria\Entidades\bin\Debug\Entidades.pdb
+D:\Personal\desarrollo\Mensajeria\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\Entidades\obj\Debug\Entidades.dll
+D:\Personal\desarrollo\Mensajeria\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jhonnathan\Documents\proyectosVisualStudio\Mensajeria\Entidades\obj\Debug\Entidades.pdb

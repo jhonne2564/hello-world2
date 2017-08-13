@@ -1,0 +1,11 @@
+C:\Desarrollo\SimuladorTramas\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.exe.config
+C:\Desarrollo\SimuladorTramas\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.exe
+C:\Desarrollo\SimuladorTramas\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.pdb
+C:\Desarrollo\SimuladorTramas\AsynchronousServerSocket\obj\Debug\SimuladorSwitchTransaccional.exe
+C:\Desarrollo\SimuladorTramas\AsynchronousServerSocket\obj\Debug\SimuladorSwitchTransaccional.pdb
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.exe.config
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.exe
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\bin\Debug\SimuladorSwitchTransaccional.pdb
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\obj\Debug\SimuladorSwitchTransaccional.csprojResolveAssemblyReference.cache
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\obj\Debug\SimuladorSwitchTransaccional.exe
+D:\Personal\desarrollo\Mensajeria\AsynchronousServerSocket\obj\Debug\SimuladorSwitchTransaccional.pdb
